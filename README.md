@@ -1,4 +1,4 @@
-# Photo Uploader - Mini Web App
+# Terraform AWS VPC + S3 Photo Uploader - Mini Web App
 
 [![Terraform](https://img.shields.io/badge/Terraform-1.5+-blue?logo=terraform)](https://www.terraform.io/)
 [![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws)](https://aws.amazon.com/)
